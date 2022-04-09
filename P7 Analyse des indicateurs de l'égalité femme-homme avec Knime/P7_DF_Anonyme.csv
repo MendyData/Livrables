@@ -1,0 +1,257 @@
+﻿Identification;Sexe;Service;Generation;Salaire base mensuel;%variable_moyen;Ancienneté_an;Distance domicile/Travail;Work_accident;Contrat;Durée hebdo;Augmentation;Niveau de satisfaction;Promotion
+0;F;Consultant;40-49 ans;9873,5;13;22,5;69;Non;CDI;35;0;60;0
+1;H;Consultant;50 ans et +;4296,72;39;10,8;32;Non;CDI;35;0;39;1
+2;F;RH;50 ans et +;3705,22;29;13;68;Oui;CDI;35;1;62;1
+3;H;Consultant;50 ans et +;1697,15;17;21,7;59;Non;CDI;35;1;98;0
+4;H;R&D;30-39 ans;2848,3;15;3,3;15;Oui;CDD;35;1;81;0
+5;H;Commercial;50 ans et +;5464,55;34;10,5;6;Non;CDI;35;0;47;0
+6;H;Marketing;40-49 ans;9999,38;27;17,8;56;Oui;CDI;35;0;34;1
+7;F;RH;50 ans et +;3116,88;37;8,2;43;Oui;CDI;24;0;48;1
+8;H;Marketing;30-39 ans;5462,08;39;7,5;60;Non;CDI;24;0;25;1
+9;H;Compta Finances;40-49 ans;2769,43;33;18,9;69;Oui;CDI;35;0;89;0
+10;F;RH;50 ans et +;5522,18;9;5,9;70;Oui;CDI;35;1;7;1
+11;F;Consultant;40-49 ans;7308,82;12;20,2;53;Non;CDI;35;0;24;1
+12;F;Commercial;50 ans et +;5895,76;23;22,4;64;Non;CDI;24;1;15;1
+13;H;R&D;50 ans et +;7081,32;26;20;8;Non;CDI;35;0;31;1
+14;H;Commercial;50 ans et +;6195,58;23;13,1;27;Oui;CDI;35;0;56;1
+15;H;Marketing;50 ans et +;5517,63;23;23,3;9;Non;CDI;35;1;81;1
+16;H;R&D;40-49 ans;8458,45;1;15,2;31;Non;CDI;35;0;35;0
+17;F;Consultant;50 ans et +;2132,43;18;3,2;15;Oui;CDI;35;1;60;1
+18;F;Consultant;50 ans et +;3097,03;13;25;58;Non;CDI;35;0;19;0
+19;F;Compta Finances;50 ans et +;8218,82;14;16,3;28;Oui;CDI;35;0;32;1
+20;F;Consultant;50 ans et +;5388,72;30;8,4;17;Oui;CDI;35;1;51;0
+21;H;Consultant;50 ans et +;1873,08;27;12,2;28;Oui;CDI;35;0;45;0
+22;F;Commercial;50 ans et +;4152,63;7;15,8;46;Oui;CDI;35;1;60;1
+23;H;R&D;50 ans et +;9096,97;21;5,8;44;Oui;CDI;35;0;8;1
+24;H;Marketing;50 ans et +;7264,83;31;15,6;65;Oui;CDI;35;0;64;1
+25;F;Compta Finances;30-39 ans;2052,05;13;5,3;60;Oui;CDI;35;1;12;1
+26;F;Consultant;50 ans et +;2496;21;1,3;43;Oui;CDD;32;0;6;0
+27;H;RH;50 ans et +;2767,92;6;9,2;44;Oui;CDI;35;1;88;0
+28;H;RH;30-39 ans;3486,82;19;3,1;13;Non;CDI;35;0;65;1
+29;H;Consultant;50 ans et +;1709,76;10;10,3;11;Oui;CDI;24;1;87;1
+30;F;Commercial;50 ans et +;3165,28;0;6,8;18;Oui;CDI;35;0;67;1
+31;H;Marketing;50 ans et +;6002,97;2;22,8;38;Oui;CDI;35;1;70;1
+32;H;Marketing;30-39 ans;2998,45;21;8,2;13;Oui;CDI;35;1;22;1
+33;H;RH;50 ans et +;3508,05;11;24;60;Oui;CDI;35;0;92;1
+34;H;Consultant;40-49 ans;3232,02;35;24,4;8;Non;CDI;35;0;36;0
+35;H;Consultant;40-49 ans;1851,55;19;23,7;38;Oui;CDI;28;0;15;1
+36;H;RH;50 ans et +;5359,9;4;15,7;45;Non;CDI;35;1;80;0
+37;H;Commercial;40-49 ans;9069,67;1;18,4;64;Non;CDI;35;0;11;0
+38;F;Compta Finances;50 ans et +;7377,07;17;6;67;Oui;CDI;35;1;70;1
+39;F;RH;40-49 ans;7157,15;3;3,7;26;Oui;CDI;35;0;6;0
+40;H;Commercial;50 ans et +;8714,77;37;15,6;24;Non;CDI;35;1;80;0
+41;F;Consultant;30-39 ans;2070,25;24;9,3;45;Non;CDI;35;0;95;0
+42;H;Compta Finances;50 ans et +;8073,22;38;15,7;29;Non;CDI;35;1;70;1
+43;H;Consultant;40-49 ans;1651,65;18;17,1;43;Non;CDI;35;0;69;0
+44;F;Consultant;40-49 ans;4516,63;34;17,4;42;Oui;CDI;35;1;90;0
+45;H;Compta Finances;50 ans et +;3383,68;23;17,2;11;Oui;CDI;35;0;56;0
+46;F;Consultant;50 ans et +;3168,32;10;1,4;42;Non;CDD;35;0;18;0
+47;H;RH;50 ans et +;4499,95;22;5,8;59;Oui;CDI;35;1;46;0
+48;H;Marketing;40-49 ans;1989,87;5;1,4;67;Non;CDD;35;0;19;0
+49;F;Marketing;30-39 ans;1863,98;12;2,5;55;Non;CDI;35;1;67;1
+50;F;R&D;50 ans et +;9366,93;8;9,1;46;Oui;CDI;35;1;74;1
+51;H;Marketing;50 ans et +;6842,16;21;23,9;37;Non;CDI;24;1;1;1
+52;F;Commercial;50 ans et +;3185;3;1,7;60;Oui;CDD;35;0;58;0
+53;H;Marketing;50 ans et +;3582,37;30;22,4;48;Non;CDI;35;1;81;1
+54;H;Compta Finances;50 ans et +;1833,65;8;8,2;25;Non;CDI;35;0;17;1
+55;F;R&D;40-49 ans;6356,35;26;4,2;40;Oui;CDI;35;1;4;0
+56;F;Consultant;50 ans et +;3033,33;8;0,4;17;Oui;CDD;35;0;24;0
+57;F;Consultant;40-49 ans;7672,82;37;3,8;30;Non;CDI;35;1;77;1
+58;H;Consultant;50 ans et +;1110,72;14;6,3;17;Oui;CDI;24;1;30;1
+59;H;Consultant;50 ans et +;5448,56;30;7,3;9;Oui;CDI;24;0;51;1
+60;H;Compta Finances;40-49 ans;1835,17;6;19;3;Non;CDI;35;0;15;1
+61;F;Compta Finances;50 ans et +;8056,53;13;10,3;31;Non;CDI;35;0;32;1
+62;H;Consultant;50 ans et +;9737;12;7,4;62;Oui;CDI;35;1;72;1
+63;F;Commercial;40-49 ans;5581,33;20;23,9;47;Oui;CDI;35;1;86;0
+64;F;RH;30-39 ans;5056,57;24;16,2;66;Non;CDI;35;1;46;1
+65;H;RH;30-39 ans;9039,33;20;10,7;30;Oui;CDI;35;1;1;1
+66;F;Commercial;50 ans et +;2881,67;27;1,9;15;Oui;CDD;35;0;76;0
+67;H;RH;30-39 ans;6175,87;38;9,7;30;Non;CDI;35;0;29;1
+68;F;Marketing;50 ans et +;2426,67;21;0,6;14;Oui;CDD;35;0;70;0
+69;F;Compta Finances;50 ans et +;7898,8;35;23;3;Oui;CDI;35;0;65;1
+70;H;Consultant;50 ans et +;9447,32;0;21,1;61;Oui;CDI;35;1;1;1
+71;H;Commercial;50 ans et +;2396,33;11;21,6;14;Oui;CDI;35;0;62;1
+72;H;R&D;30-39 ans;8716,28;20;8,3;50;Non;CDI;35;0;93;0
+73;F;Consultant;50 ans et +;2731,52;4;16,2;21;Oui;CDI;35;1;3;1
+74;F;Commercial;50 ans et +;7942,78;38;10,8;27;Oui;CDI;35;1;78;0
+75;H;Consultant;30-39 ans;7178,38;38;6,5;68;Oui;CDI;35;1;89;0
+76;F;Consultant;30-39 ans;5585,88;17;15,7;48;Non;CDI;35;1;50;0
+77;H;RH;40-49 ans;8277,97;10;20,4;55;Non;CDI;35;0;78;0
+78;F;Commercial;40-49 ans;2369,03;20;12,8;20;Oui;CDI;35;0;52;0
+79;H;Marketing;40-49 ans;3462,55;3;20,6;13;Oui;CDI;35;1;99;0
+80;H;Commercial;40-49 ans;2511,6;21;9,2;21;Oui;CDI;35;0;79;1
+81;H;Consultant;50 ans et +;9400,3;3;20,1;12;Non;CDI;35;1;25;1
+82;F;Marketing;50 ans et +;3640;6;1,1;9;Oui;CDD;35;0;96;0
+83;F;Consultant;50 ans et +;1774,5;16;5,5;43;Non;CDI;35;1;47;1
+84;F;Marketing;40-49 ans;3597,53;32;16,8;60;Oui;CDI;35;1;38;1
+85;F;Marketing;50 ans et +;5951,92;32;8,2;65;Oui;CDI;24;1;1;0
+86;F;Compta Finances;30-39 ans;3201,68;38;0,8;8;Oui;CDD;35;0;45;0
+87;H;RH;50 ans et +;3335,15;28;7,5;6;Non;CDI;35;1;90;0
+88;F;Consultant;40-49 ans;4712,28;26;12;66;Oui;CDI;35;1;46;1
+89;H;Commercial;50 ans et +;5984,77;6;24,9;62;Non;CDI;35;0;17;1
+90;F;Commercial;50 ans et +;2928,68;33;5,3;30;Oui;CDI;35;1;97;1
+91;F;Consultant;50 ans et +;6301,75;34;9,7;28;Oui;CDI;35;0;39;1
+92;F;RH;50 ans et +;3218,37;27;19,3;23;Non;CDI;35;1;23;0
+93;H;Consultant;30-39 ans;1803,32;8;4,4;67;Oui;CDI;35;1;81;0
+94;H;RH;50 ans et +;7263,32;30;12,7;16;Oui;CDI;35;1;84;0
+95;F;Marketing;50 ans et +;2912;35;4,2;65;Oui;CDI;35;0;40;1
+96;H;Consultant;50 ans et +;6409,43;21;7,1;38;Non;CDI;35;0;80;1
+97;H;Compta Finances;50 ans et +;1772,98;20;16,4;23;Non;CDI;35;1;44;1
+98;F;Commercial;40-49 ans;6902,35;17;17,3;45;Non;CDI;35;0;21;1
+99;H;Consultant;30-39 ans;4795,44;19;5,6;7;Oui;CDI;24;0;33;1
+100;H;RH;40-49 ans;3803,8;30;20,4;9;Non;CDI;35;0;39;0
+101;F;Consultant;40-49 ans;3547,48;39;11,7;43;Non;CDI;35;1;1;0
+102;F;Commercial;40-49 ans;2916,55;35;10,2;42;Non;CDI;35;1;98;1
+103;F;Compta Finances;40-49 ans;1059,76;1;11,9;16;Non;CDI;24;0;68;1
+104;H;Commercial;50 ans et +;7927,62;32;10;21;Oui;CDI;35;1;42;0
+105;F;Compta Finances;40-49 ans;8332,57;12;5,2;34;Non;CDI;35;0;42;0
+106;F;Marketing;40-49 ans;4082,87;28;22,3;37;Non;CDI;35;0;74;1
+107;H;Commercial;40-49 ans;9785,53;28;17,2;48;Oui;CDI;35;0;40;1
+108;H;Compta Finances;50 ans et +;4421,08;6;14,2;8;Non;CDI;35;1;28;1
+109;H;Consultant;50 ans et +;2843,75;2;12,5;11;Non;CDI;35;0;69;0
+110;H;RH;40-49 ans;8563,1;7;21,5;55;Oui;CDI;35;0;87;0
+111;H;Compta Finances;50 ans et +;4988,32;8;22,2;37;Non;CDI;35;0;52;0
+112;H;Consultant;50 ans et +;7269,08;7;9,2;65;Oui;CDI;28;1;5;1
+113;H;Marketing;30-39 ans;1669,85;22;12,4;41;Non;CDI;35;1;32;0
+114;H;Commercial;50 ans et +;7098;1;23,2;29;Oui;CDI;35;1;39;1
+115;H;R&D;50 ans et +;6526,22;36;22,8;67;Oui;CDI;35;0;4;1
+116;F;Compta Finances;50 ans et +;8422,05;38;11,7;54;Oui;CDI;35;0;96;1
+117;H;Commercial;30-39 ans;8337,12;16;6,3;29;Oui;CDI;35;0;14;1
+118;F;Commercial;40-49 ans;9777,95;4;10,5;56;Non;CDI;35;1;13;0
+119;H;Commercial;40-49 ans;3677,92;33;22,6;47;Non;CDI;35;0;95;0
+120;H;Marketing;40-49 ans;9940,23;24;22,7;4;Non;CDI;35;0;45;0
+121;H;Consultant;50 ans et +;2777,02;10;23,5;14;Oui;CDI;35;1;66;0
+122;F;Commercial;50 ans et +;6818,93;14;24,3;35;Non;CDI;35;1;47;0
+123;F;Marketing;50 ans et +;4424,12;30;24,2;58;Non;CDI;35;0;29;0
+124;H;RH;30-39 ans;9928,1;27;10;16;Oui;CDI;35;1;58;0
+125;F;Compta Finances;50 ans et +;2123,33;39;1,8;6;Non;CDD;35;0;84;0
+126;H;Compta Finances;50 ans et +;4263,35;31;15,7;69;Non;CDI;35;0;48;0
+127;F;Commercial;50 ans et +;8629,83;3;19,4;38;Non;CDI;35;0;44;0
+128;F;R&D;50 ans et +;4663,75;5;24,4;39;Oui;CDI;35;0;32;1
+129;F;RH;40-49 ans;4851,6;14;20,6;64;Oui;CDI;24;0;11;0
+130;H;Marketing;40-49 ans;5930,17;33;5,9;23;Non;CDI;35;0;37;0
+131;F;Commercial;40-49 ans;7496,88;6;21,9;55;Non;CDI;35;1;77;0
+132;F;RH;30-39 ans;8108,1;38;11,7;68;Oui;CDI;35;0;69;0
+133;H;Commercial;40-49 ans;6121,27;32;20,5;45;Oui;CDI;35;0;7;0
+134;F;Marketing;50 ans et +;4563,65;38;16,2;55;Oui;CDI;35;1;51;0
+135;H;Compta Finances;50 ans et +;9978,15;34;13;26;Oui;CDI;35;0;78;1
+136;H;Marketing;40-49 ans;4624,32;15;10,2;35;Non;CDI;35;0;92;0
+137;F;Compta Finances;50 ans et +;2079,35;7;13,7;34;Oui;CDI;35;1;40;1
+138;H;Consultant;50 ans et +;2055,04;12;13,2;44;Non;CDI;24;0;37;1
+139;H;Commercial;50 ans et +;9573,2;7;18,7;26;Oui;CDI;35;0;48;0
+140;F;Consultant;50 ans et +;4289,13;12;12,6;33;Oui;CDI;35;0;82;1
+141;F;Marketing;50 ans et +;8056,53;14;21,8;31;Oui;CDI;35;0;75;0
+142;H;Marketing;40-49 ans;3693,08;24;0,3;42;Non;CDD;35;0;25;0
+143;F;RH;50 ans et +;5106,62;10;9,8;22;Non;CDI;35;0;77;1
+144;H;Consultant;50 ans et +;2357,33;12;1,2;12;Non;CDD;32;0;100;0
+145;F;Commercial;40-49 ans;3260,83;30;17;28;Oui;CDI;35;1;42;0
+146;H;Consultant;50 ans et +;4449,9;33;2,9;3;Non;CDI;35;1;2;1
+147;F;RH;50 ans et +;7877,57;36;22,2;28;Non;CDI;35;1;63;0
+148;H;Consultant;40-49 ans;4281,55;13;8,3;63;Non;CDI;35;1;50;0
+149;H;Consultant;40-49 ans;4134,43;22;22,8;62;Non;CDI;35;0;34;0
+150;F;Marketing;50 ans et +;3256,28;34;8,8;13;Non;CDI;35;0;25;0
+151;F;Consultant;50 ans et +;6591,43;19;20,2;65;Oui;CDI;35;0;63;0
+152;H;Compta Finances;50 ans et +;8696,57;37;8,7;60;Oui;CDI;35;0;26;1
+153;F;Consultant;40-49 ans;2073,28;28;21,1;5;Non;CDI;35;0;59;1
+154;H;Consultant;40-49 ans;5097,21;10;9,3;35;Non;CDI;28;1;62;0
+155;H;RH;40-49 ans;7710,73;27;7,5;70;Oui;CDI;35;0;86;1
+156;H;RH;30-39 ans;3882,67;1;11,8;46;Non;CDI;35;0;49;1
+157;F;RH;50 ans et +;3835,65;26;14,9;13;Oui;CDI;35;0;99;1
+158;F;Compta Finances;50 ans et +;9256,22;1;7,4;5;Non;CDI;35;1;84;0
+159;H;Consultant;50 ans et +;5455,45;7;19;7;Oui;CDI;35;0;8;1
+160;H;Commercial;50 ans et +;8428,12;18;20;57;Oui;CDI;35;1;44;0
+161;H;Consultant;40-49 ans;5810,35;36;5,8;61;Oui;CDI;35;1;94;0
+162;H;Marketing;50 ans et +;4022,2;14;15,6;36;Non;CDI;35;0;37;1
+163;H;RH;50 ans et +;5035,33;24;24;55;Oui;CDI;35;0;95;1
+164;F;RH;50 ans et +;3797,73;24;23,9;52;Oui;CDI;35;0;29;0
+165;H;RH;50 ans et +;2735,2;27;21,2;49;Non;CDI;24;0;47;1
+166;F;Marketing;40-49 ans;4763,85;7;10,8;44;Oui;CDI;35;1;73;0
+167;H;R&D;40-49 ans;7654,62;5;23,3;60;Oui;CDI;35;1;54;1
+168;F;Commercial;30-39 ans;8828,52;17;10,6;18;Non;CDI;35;0;84;1
+169;F;Compta Finances;30-39 ans;2008,07;35;3,5;61;Non;CDI;35;0;44;0
+170;F;Compta Finances;30-39 ans;4198,13;34;4,8;33;Non;CDI;35;1;14;1
+171;F;Commercial;50 ans et +;3800,77;9;24,7;53;Non;CDI;35;1;61;1
+172;H;Compta Finances;40-49 ans;1979,25;6;5,5;46;Non;CDI;35;1;31;1
+173;H;Commercial;50 ans et +;2828,58;21;24,2;9;Oui;CDI;35;0;86;0
+174;H;R&D;50 ans et +;6178,64;17;23,3;48;Oui;CDI;24;0;57;0
+175;F;Compta Finances;40-49 ans;6743,36;4;22,7;59;Oui;CDI;32;0;6;0
+176;F;Commercial;50 ans et +;4882,8;17;9,9;45;Oui;CDI;24;1;1;1
+177;H;Commercial;40-49 ans;5805,8;37;21,1;22;Non;CDI;35;0;15;0
+178;F;Commercial;30-39 ans;9555;20;13,9;50;Oui;CDI;35;1;15;0
+179;F;Commercial;50 ans et +;2070,25;34;3,8;53;Non;CDI;35;0;58;0
+180;F;RH;50 ans et +;5067,18;39;15,1;34;Non;CDI;35;1;55;0
+181;H;Commercial;50 ans et +;7713,77;23;14,3;31;Oui;CDI;35;1;31;0
+182;H;R&D;50 ans et +;4165,2;12;22,6;43;Non;CDI;24;0;41;1
+183;F;RH;40-49 ans;7687,98;9;17,3;69;Non;CDI;35;0;47;0
+184;F;Compta Finances;50 ans et +;4204,2;39;9,3;57;Oui;CDI;35;1;4;1
+185;H;Commercial;50 ans et +;9488,27;38;14,9;6;Non;CDI;35;1;52;1
+186;H;Marketing;50 ans et +;3655,17;33;19,3;41;Oui;CDI;35;0;69;1
+187;H;Consultant;40-49 ans;2558,62;22;1,8;59;Non;CDD;35;0;59;0
+188;F;Consultant;40-49 ans;6413,98;24;7,2;59;Oui;CDI;35;1;72;0
+189;F;Consultant;50 ans et +;1703,22;39;5,7;24;Non;CDI;35;1;87;0
+190;F;Consultant;40-49 ans;2027,78;19;6,6;58;Non;CDI;35;0;92;1
+191;H;Marketing;40-49 ans;7637,93;27;13,8;68;Non;CDI;35;0;59;0
+192;H;R&D;50 ans et +;9573,2;5;7,9;28;Oui;CDI;35;1;77;0
+193;H;Compta Finances;50 ans et +;7185,97;7;5,5;67;Non;CDI;35;1;66;1
+194;F;RH;50 ans et +;5076,28;33;4,4;43;Non;CDI;35;0;20;0
+195;F;Marketing;30-39 ans;1598,57;18;14;44;Non;CDI;35;0;40;1
+196;H;R&D;50 ans et +;5212,78;11;4,2;39;Oui;CDI;35;0;32;0
+197;F;Compta Finances;40-49 ans;8655,62;26;15,8;68;Oui;CDI;35;1;25;0
+198;H;Consultant;50 ans et +;3891,77;32;7,2;28;Oui;CDI;35;0;13;0
+199;F;Marketing;40-49 ans;9218,3;4;6,7;20;Oui;CDI;35;0;69;0
+200;F;Commercial;50 ans et +;2309,88;23;8,2;3;Non;CDI;35;0;63;0
+201;H;RH;50 ans et +;9642,97;17;19;13;Non;CDI;35;0;3;0
+202;H;RH;40-49 ans;9635,38;19;6,4;68;Oui;CDI;35;1;32;0
+203;F;Compta Finances;50 ans et +;3853,2;9;24,8;44;Oui;CDI;24;1;47;1
+204;F;Compta Finances;40-49 ans;4013,1;12;8,1;59;Non;CDI;35;0;93;1
+205;H;Consultant;50 ans et +;6973,63;31;19,1;50;Oui;CDI;35;0;99;1
+206;H;Consultant;50 ans et +;2024,75;4;14,2;4;Oui;CDI;35;1;42;0
+207;H;Consultant;50 ans et +;6398,82;11;7;29;Non;CDI;35;1;68;0
+208;H;Consultant;40-49 ans;4000,97;40;24,2;62;Oui;CDI;35;1;60;1
+209;H;Consultant;40-49 ans;6043,92;3;16,9;65;Oui;CDI;35;1;36;1
+210;H;Consultant;50 ans et +;2918,07;39;21,2;44;Non;CDI;35;1;89;1
+211;H;Commercial;50 ans et +;6031,78;39;19,2;35;Oui;CDI;35;1;74;0
+212;H;Consultant;40-49 ans;2561,65;13;17,4;41;Oui;CDI;35;0;68;0
+213;F;RH;50 ans et +;2507,44;18;16,2;47;Oui;CDI;24;1;98;1
+214;H;Consultant;50 ans et +;2675,4;20;3,4;42;Oui;CDI;35;1;60;0
+215;F;Compta Finances;40-49 ans;7601,53;19;12,5;53;Non;CDI;35;1;55;1
+216;H;R&D;40-49 ans;6494,37;1;6;12;Oui;CDI;35;0;30;0
+217;F;RH;50 ans et +;3012,1;19;16,2;19;Non;CDI;35;1;15;1
+218;F;Compta Finances;50 ans et +;6127,33;0;14,3;65;Non;CDI;35;1;94;0
+219;H;Consultant;50 ans et +;2834,65;15;6,2;61;Non;CDI;35;1;24;0
+220;F;Commercial;50 ans et +;6212,27;5;4,6;51;Oui;CDI;35;1;3;0
+221;F;Commercial;30-39 ans;6838,65;5;3;6;Non;CDI;35;0;41;0
+222;F;Consultant;50 ans et +;5739,07;6;24,7;30;Non;CDI;35;1;51;1
+223;H;Commercial;30-39 ans;5949,88;17;16,2;69;Oui;CDI;35;1;41;0
+224;H;Marketing;50 ans et +;8696,57;34;13,1;19;Oui;CDI;35;1;89;0
+225;F;Commercial;50 ans et +;9497,37;17;13,8;63;Oui;CDI;35;1;81;1
+226;H;Commercial;50 ans et +;5749,68;17;13,8;51;Non;CDI;35;0;19;0
+227;F;Compta Finances;30-39 ans;7889,7;27;16,5;47;Non;CDI;35;0;53;1
+228;H;Compta Finances;40-49 ans;3436,77;27;10,3;11;Oui;CDI;35;1;44;1
+229;H;Compta Finances;40-49 ans;5724,16;15;18,6;49;Non;CDI;24;1;100;1
+230;F;RH;40-49 ans;8746,62;19;5,2;5;Non;CDI;35;0;62;1
+231;F;RH;40-49 ans;7148,05;21;7,9;27;Oui;CDI;35;1;42;1
+232;F;Consultant;30-39 ans;2226,47;2;1,1;14;Non;CDD;35;0;81;0
+233;H;Marketing;30-39 ans;7358,87;31;9,9;48;Non;CDI;28;1;17;1
+234;F;RH;50 ans et +;3060,72;6;19,5;30;Non;CDI;24;0;73;1
+235;F;Consultant;50 ans et +;3459,52;30;10,3;38;Oui;CDI;35;0;25;0
+236;F;Consultant;50 ans et +;9162,18;17;9,1;46;Non;CDI;35;1;7;1
+237;F;Compta Finances;30-39 ans;1920,1;17;1,1;31;Non;CDD;35;0;18;0
+238;H;Compta Finances;40-49 ans;7753,2;21;15,2;62;Non;CDI;35;1;96;0
+239;H;Consultant;50 ans et +;2813,72;8;13,3;17;Non;CDI;28;1;9;1
+240;H;Marketing;40-49 ans;7184,45;37;24,1;28;Non;CDI;35;1;54;1
+241;H;Compta Finances;50 ans et +;2604,12;32;20,5;61;Oui;CDI;35;1;70;0
+242;F;RH;50 ans et +;5293,17;39;18,6;16;Non;CDI;35;0;30;1
+243;F;Commercial;50 ans et +;6163,73;16;23,9;70;Oui;CDI;35;1;38;1
+244;F;RH;50 ans et +;4117,36;8;6,7;7;Non;CDI;24;1;35;1
+245;F;Consultant;50 ans et +;9426,08;24;23,8;40;Non;CDI;35;1;9;0
+246;F;Commercial;40-49 ans;5092,97;11;23,1;49;Oui;CDI;35;1;31;1
+247;F;Commercial;50 ans et +;8126,3;36;18,2;23;Oui;CDI;35;1;54;0
+248;F;Consultant;40-49 ans;9782,5;38;6,3;23;Non;CDI;35;0;69;1
+249;H;Commercial;50 ans et +;1590,98;30;14,9;36;Non;CDI;35;1;62;0
+250;F;RH;50 ans et +;7637,93;21;8,6;34;Oui;CDI;35;1;84;0
+251;F;Consultant;40-49 ans;7304,27;17;7,9;59;Non;CDI;35;1;34;0
+252;F;Compta Finances;40-49 ans;8328,02;14;10,2;59;Non;CDI;35;1;60;0
+253;F;RH;40-49 ans;8860,8;19;11,9;65;Non;CDI;32;1;59;1
+254;F;Commercial;50 ans et +;4974,32;32;11,8;31;Oui;CDI;24;0;66;1
+255;F;Marketing;50 ans et +;6583,85;13;12,6;59;Non;CDI;35;1;67;1
